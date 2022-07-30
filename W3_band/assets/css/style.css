@@ -1,0 +1,56 @@
+/* reset css */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+htmt {
+    font-family: helvetica, arial, sans-serif;
+}
+/* 
+1. từ trên xuống dươi 
+2.từ ngoài vào trong 
+3. từ tổng quan đến chi tiết
+*/
+/* 
+1. vị trí (wid height)
+2. kích thước
+3. màu sắc
+4. kiểu dáng (kiểu chữ, hình vuông, hình tron..,...)
+ */
+#main {
+
+}
+
+#header {
+    height: 46px;
+    background-color: #000000;
+
+}
+#nav {
+
+}
+#nav li {
+    display: inline-block;
+}
+#nav li a {
+    color: #FFF;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+}
+#nav .subnav {
+    display: none;
+}
+
+#silde {
+
+}
+
+#content {
+
+}
+
+#footer {
+
+}
